@@ -34,6 +34,7 @@ The most courses are paid, but have trial period.
 3. https://github.com/wsvincent/awesome-django
 4. https://awesome-python.com/
 5. https://fastapi.tiangolo.com/
+6. https://github.com/pydanny/cookiecutter-django
 
 
 ### IDE
