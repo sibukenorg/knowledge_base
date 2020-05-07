@@ -19,6 +19,7 @@ The most courses are paid, but have trial period.
 3. https://www.codecademy.com/learn/learn-python-3
 4. https://stepik.org/course/67/
 5. https://tutorial.djangogirls.org/en/
+6. https://habr.com/ru/company/yandex/blog/498856/
 
 
 ### Platforms
