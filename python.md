@@ -8,6 +8,7 @@ This page contain links to courses, platforms, docs and projects which help lear
 ### Docs
 1. https://www.python.org/
 2. https://books.agiliq.com/en/latest/README.html
+3. https://www.django-rest-framework.org/
 
 ### Courses
 
@@ -17,6 +18,7 @@ The most courses are paid, but have trial period.
 2. https://www.learnpython.org/
 3. https://www.codecademy.com/learn/learn-python-3
 4. https://stepik.org/course/67/
+5. https://tutorial.djangogirls.org/en/
 
 
 ### Platforms
