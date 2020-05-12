@@ -54,9 +54,9 @@ https://www.codewars.com/
 [Real World Vue](https://github.com/gothinkster/vue-realworld-example-app)  
 [Vue Hackernews](https://github.com/vuejs/vue-hackernews-2.0/)  
 
-**Тулзы** 
-(Расширение для дебага в хроме)[https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en]  
-(Vetur для VS Code)[https://marketplace.visualstudio.com/items?itemName=octref.vetur]  
+**Тулзы**  
+[Расширение для дебага в хроме](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)  
+[Vetur для VS Code](https://marketplace.visualstudio.com/items?itemName=octref.vetu)  
 
 **Сообщества**  
 [VK](https://vk.com/vuejs)  
