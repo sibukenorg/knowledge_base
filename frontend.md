@@ -44,13 +44,20 @@ https://www.codewars.com/
 [Бесконечное количество полезных ссылок и типовых задач](https://learn-vuejs.github.io/vue-patterns/patterns/)
 [Продвинутый курс по проектированию компонентов](https://adamwathan.me/advanced-vue-component-design/)
 
-
 **Vue-router**
 [Русская документация](https://router.vuejs.org/ru/)
 
 **Vuex**
 [Русская дока](https://vuex.vuejs.org/ru/)
 
+**Примеры приложений**
+[Real World Vue](https://github.com/gothinkster/vue-realworld-example-app)
+[Vue Hackernews](https://github.com/vuejs/vue-hackernews-2.0/)
+
 **Тулзы**
 (Расширение для дебага в хроме)[https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en]
 (Vetur для VS Code)[https://marketplace.visualstudio.com/items?itemName=octref.vetur]
+
+**Сообщества**
+[VK](https://vk.com/vuejs)
+[Телеграм-чат про vue](https://t.me/vuejs_club)
